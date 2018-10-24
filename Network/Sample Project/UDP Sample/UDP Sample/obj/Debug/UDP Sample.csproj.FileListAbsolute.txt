@@ -1,0 +1,10 @@
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\bin\Debug\UDP Sample.exe.config
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\bin\Debug\UDP Sample.exe
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\bin\Debug\UDP Sample.pdb
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP Sample.csprojAssemblyReference.cache
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP_Sample.Properties.Resources.resources
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP Sample.csproj.GenerateResource.cache
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP Sample.csproj.CoreCompileInputs.cache
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP Sample.exe
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP Sample.pdb
+D:\Private Project\CS-function-Class\Network\Sample Project\UDP Sample\UDP Sample\obj\Debug\UDP_Sample.FormMain.resources
